@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(第三四次实验课.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  3.1.cpp
+  3.2.cpp
+C:\project\第三、四次实验课\第三四次实验课\3.2.cpp(10,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  3.3.cpp
+  3.5.cpp
+  main.cpp
+  mytemperature.cpp
+  mytemperature.h
+  正在生成代码...
+x64\Debug\mytemperature.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  第三四次实验课.vcxproj -> C:\project\第三、四次实验课\第三四次实验课\x64\Debug\实验三函数.exe
